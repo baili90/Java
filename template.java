@@ -1,4 +1,4 @@
-public class p53 {
+public class p {
 	public static void main(String[] args){
 		
 	}
